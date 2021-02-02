@@ -1,10 +1,12 @@
 <template>
-  <div class="home"></div>
+  <div>
+    404
+  </div>
 </template>
-
 <script>
 export default {
-  name: 'Home',
-  components: {}
+  name: '404'
 }
 </script>
+
+<style></style>

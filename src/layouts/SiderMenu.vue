@@ -1,10 +1,9 @@
 <template>
-  <div class="home"></div>
+  <div>SiderMenu</div>
 </template>
-
 <script>
 export default {
-  name: 'Home',
-  components: {}
+  name: 'SiderMenu'
 }
 </script>
+<style></style>

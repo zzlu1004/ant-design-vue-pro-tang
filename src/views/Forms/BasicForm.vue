@@ -1,10 +1,9 @@
 <template>
-  <div class="home"></div>
+  <div>BasicForm</div>
 </template>
-
 <script>
 export default {
-  name: 'Home',
-  components: {}
+  name: 'BasicForm'
 }
 </script>
+<style></style>
